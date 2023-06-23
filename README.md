@@ -3,8 +3,11 @@
 
 <br />
 
-I'm a computer science student at the ULB in belgium 🇧🇪
+I'm a cybersecurity student at the ULB in belgium 🇧🇪
 
 **About me**
 
-- Université Libre de Bruxelles 
+- <img width="2%" alt="ULB logo" src="./assets/ulb.png" /> Université Libre de Bruxelles
+- C++ lover
+- 🎓 just graduated in computer science
+- undertaking a master in cybersecurity
