@@ -18,7 +18,7 @@ I'm a cybersecurity student at the ULB in belgium 🇧🇪
 
 #### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,idea,vscode,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,idea,vscode,unity)](https://skillicons.dev)
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aweinhof&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alec's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aweinhof&layout=compact&theme=buefy&hide_border=true" /> |
