@@ -26,6 +26,6 @@ I'm a cybersecurity student at the ULB in belgium 🇧🇪
 
 #### Some Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Aweinhof/discloud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aweinhof&repo=discloud&theme=buefy" />
 </a>
